@@ -1,0 +1,12 @@
+# Sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Log dan file sementara
+*.log
+*.tmp
